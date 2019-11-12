@@ -1,0 +1,6 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex2-4\Ex2-4\bin\Debug\Ex2-4.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex2-4\Ex2-4\bin\Debug\Ex2-4.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex2-4\Ex2-4\bin\Debug\Ex2-4.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex2-4\Ex2-4\obj\Debug\Ex2-4.csprojResolveAssemblyReference.cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex2-4\Ex2-4\obj\Debug\Ex2-4.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex2-4\Ex2-4\obj\Debug\Ex2-4.pdb
